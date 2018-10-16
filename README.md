@@ -1,3 +1,5 @@
+ver 0.0428
+
 # 智絵里
 
 ![Chieri_profile](chieri_profile.png)
